@@ -16,6 +16,7 @@ public class Deputy extends Human {
 		this.bribery = bribery;
 	}
 
+	
 	public String getFirstName() {
 		return firstName;
 	}
